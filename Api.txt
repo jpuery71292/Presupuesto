@@ -1,0 +1,14 @@
+Api 
+users
+loggin		get/:id
+register	post
+
+operations
+add		post
+delete		delete
+limit 10	get/:usId
+get by tipo	get/:tipo
+change		put/:id
+
+category
+get by id	get/:id
